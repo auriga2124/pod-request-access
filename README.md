@@ -29,10 +29,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot/mobile.jpg)
+Mobile view
 
 ![](./screenshot/tablet.jpg)
+Tablet view
 
-![](./screenshot/tablet.jpg)
+![](./screenshot/desktop.jpg)
+Desktop view
 
 ### Links
 
