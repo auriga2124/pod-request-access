@@ -28,9 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/mobile.jpg)
 
-![](./screenshot.jpg)
+![](./screenshot/tablet.jpg)
+
+![](./screenshot/tablet.jpg)
 
 ### Links
 
@@ -51,7 +53,7 @@ Users should be able to:
 ### What I learned
 
 In this challenge I learned:
-How to embedd an SVG in a page using <object> element as a background image.
+How to embedd an SVG in a page using object element.
 
 ```html
 <object 
@@ -74,12 +76,8 @@ form {
     order: 1;
 }
 ```
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@auriga2124](https://www.frontendmentor.io/profile/auriga2124)
+- Twitter - [@ErkaRahman](https://twitter.com/ErkaRahman)
